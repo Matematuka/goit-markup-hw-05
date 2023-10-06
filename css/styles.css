@@ -774,12 +774,9 @@ border: none;
           fill: #F4F4FD;
          
         }
-        .checkbox-label {
-            display: inline-flex;
+        .checkbox-label { 
             color: #8E8F99;
             font-size: 12px;
-            font-style: normal;
-            font-weight: 400;
             line-height: 1.17;
             letter-spacing: 0.04em;
             align-items: center;
