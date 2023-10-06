@@ -750,7 +750,7 @@ border: none;
         }
         .checkbox-field {
           margin-bottom: 24px;
-        display: flex;  
+        display: inline-flex;  
             }
         .modal-checkbox{
        display: inline-flex;
