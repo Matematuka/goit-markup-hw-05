@@ -776,7 +776,7 @@ border: none;
           display: inline-flex;
         }
         .checkbox-label {
-            display: flex;
+            display: inline-flex;
             color: #8E8F99;
             font-size: 12px;
             font-style: normal;
