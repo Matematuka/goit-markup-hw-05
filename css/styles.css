@@ -750,10 +750,10 @@ border: none;
         }
         .checkbox-field {
           margin-bottom: 24px;
-        display: inline-flex;  
+          display: flex;  
             }
         .modal-checkbox{
-       display: inline-flex;
+      
         }
         
         .checkbox {
@@ -772,7 +772,7 @@ border: none;
           background-color: #404bbf;;
           border: none;
           fill: #F4F4FD;
-          display: inline-flex;
+         
         }
         .checkbox-label {
             display: inline-flex;
@@ -793,14 +793,6 @@ border: none;
             line-height: 1.33;
             letter-spacing: 0.04em;
             text-decoration-line: underline;
-        }
-
-        .checkbox-icon {
-        }
-
-        .check-icon {
-       
-      
         }
 
     .modal-form-btn {
